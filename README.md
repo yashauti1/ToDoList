@@ -29,9 +29,7 @@ Task list auto-scrolls for long lists.
 
 
 📂 Project Structure
-arduino
-Copy
-Edit
+
 📦 To do list application
  ┣ 📂 src
  ┃ ┣ 📂 components
@@ -56,7 +54,7 @@ Edit
 sh
 Copy
 Edit
-git clone https://github.com/your-username/task-manager.git
+git clone https://github.com/your-username/todolist.git
 
 2️⃣ Install Dependencies
 sh
@@ -94,7 +92,7 @@ Geolocation API (for auto-location detection)
 
 
 🤝 Contribution and feedback
-Want to improve this project? Feel free to contribute!
+Want to improve this project by adding date selction for the task by implementing calender and also feature like notification,reapet task etc etc ? Feel free to contribute!
 
 Fork the repository.
 Create a new branch (feature-branch).
